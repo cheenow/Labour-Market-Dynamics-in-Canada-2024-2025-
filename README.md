@@ -58,8 +58,9 @@ The goal is to identify **regional labour market strengths, emerging trends, and
 ---
 
 ## Formula  
-```text
 Growth Rate (%) = (NewValue – OldValue) / OldValue × 100
+
+---
 ## Output Table (Year-over-Year Growth, %)
 
 | GEO | Growth (%) Population | Growth (%) Unemployment Rate | Growth (%) Employment Rate |
@@ -150,3 +151,6 @@ Rising employment rates indicate **higher job absorption and stronger job creati
 - British Columbia  
 - Nova Scotia  
 - Newfoundland & Labrador  
+
+
+

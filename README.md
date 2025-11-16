@@ -15,7 +15,7 @@ The goal is to identify **regional labour market strengths, emerging trends, and
 ---
 
 ## Dataset  
-**Source:** [Labour force characteristics by province, monthly, seasonally adjusted (Table 14-10-0287-03)](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703)  
+**Source:** [Statistics Canada: Labour force characteristics by province, monthly, seasonally adjusted (Table 14-10-0287-03)](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703)  
 **Platform:** RStudio  
 **Language:** R  
 **Libraries:** tidyverse  

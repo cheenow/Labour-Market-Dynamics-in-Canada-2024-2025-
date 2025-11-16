@@ -38,7 +38,7 @@ The goal is to identify **regional labour market strengths, emerging trends, and
 
 ---
 
-## Key Variable Definitions  
+## Variable Definitions  
 | Variable | Description |
 |---------|-------------|
 | **REF_DATE** | Time period of the observation (month-year). |
@@ -89,10 +89,6 @@ Growth Rate (%) = (NewValue – OldValue) / OldValue × 100
 **Employment Opportunity Insight:**  
 Provinces with strong population growth may see **expanding labour supply and increased economic activity**, supporting more job creation.
 
-- **Opportunity hotspots:** *PEI, Alberta, Manitoba, Saskatchewan*  
-- **Potential constraints:** *Newfoundland & Labrador, British Columbia*
-
-
 ---
 
 ## 2️⃣ Unemployment Rate Changes
@@ -112,10 +108,6 @@ Provinces with strong population growth may see **expanding labour supply and in
 **Employment Opportunity Insight:**  
 Declining unemployment suggests **stronger hiring conditions**.
 
-- **Favourable hiring environments:** *PEI, Quebec, Saskatchewan, Manitoba*  
-- **Competitive job markets:** *British Columbia, Nova Scotia*  
-
-
 ---
 
 ## 3️⃣ Employment Rate Growth
@@ -127,27 +119,22 @@ Declining unemployment suggests **stronger hiring conditions**.
 **Employment Opportunity Insight:**  
 Rising employment rates indicate **higher job absorption and stronger job creation**.
 
-- **Strongest signals:** *PEI, BC, Quebec, Alberta*  
-- **Stable markets:** *Saskatchewan, Ontario, New Brunswick*  
-- **Weakening conditions:** *Nova Scotia, Newfoundland & Labrador, Manitoba*  
-
-
 ---
 
 # Overall Summary: Provincial Employment Opportunities
 
-### ⭐ **Strongest Employment Opportunities**
+### **Strongest Employment Opportunities**
 - Prince Edward Island  
 - Quebec  
 - Saskatchewan  
 - Manitoba  
 
-### ⚖️ **Moderate or Mixed Opportunities**
+### **Moderate or Mixed Opportunities**
 - Alberta  
 - Ontario  
 - New Brunswick  
 
-### ⚠️ **Regions Facing Employment Challenges**
+### **Regions Facing Employment Challenges**
 - British Columbia  
 - Nova Scotia  
 - Newfoundland & Labrador  

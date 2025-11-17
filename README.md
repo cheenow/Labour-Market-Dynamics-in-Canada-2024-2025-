@@ -22,6 +22,12 @@ The goal is to identify **regional labour market strengths, emerging trends, and
 
 ---
 
+## Project Files
+
+### **All source code and project files are available in the repository’s Code section.**
+
+---
+
 ## Data Preparation Workflow  
 1. **Loaded and merged datasets** for October 2024 and October 2025.  
 2. **Removed missing values** to ensure accurate comparisons.  
